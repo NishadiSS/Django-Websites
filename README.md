@@ -1,1 +1,1 @@
-# Django-Websites
+# Cosmetic Ecommerce website
