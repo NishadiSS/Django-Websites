@@ -1,1 +1,1 @@
-# Cosmetic Ecommerce website
+# Cosmetic Ecommerce Django Website - Frontend Design
