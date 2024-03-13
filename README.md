@@ -3,6 +3,9 @@
 ## 💫Overview
 This repository contains the frontend design for a modern and visually appealing cosmetic e-commerce website. The project focuses on providing a seamless and user-friendly experience for customers browsing and purchasing cosmetic products online. The design is responsive, ensuring optimal viewing and interaction across various devices.
 
+# Final output video 
+https://github.com/NishadiSS/Python-Django-Ecommerce-website/assets/119886016/8f06e528-639a-4eb8-87ca-86d6eb17c100
+
 ## 💫Features
 ### 1. Intuitive User Interface
 The frontend design emphasizes a clean and intuitive user interface, making it easy for customers to navigate through the website, explore product categories, and find their desired cosmetic items effortlessly.
