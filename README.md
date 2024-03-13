@@ -29,3 +29,5 @@ An intuitive shopping cart system allows users to add products to their cart, re
 ### Clone the repository to your local machine.
 ### Open the project in your preferred code editor.
 ### Launch the project using a local development server or your preferred deployment method.
+
+
